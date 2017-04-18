@@ -12,7 +12,7 @@ ruby '2.3.1'
 #gem "jekyll", "3.4.3"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "jekyll-whiteglass"
+gem "jekyll-theme-slate"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
