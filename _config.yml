@@ -16,7 +16,7 @@
 title: My First Jekyll Site
 email: Elaine.H.Chiu.17@dartmouth.edu
 description: This is my site's basic description.
-baseurl: "/tutorialBlog" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll_workshop" # the subpath of your site, e.g. /blog
 url: "http://github.com/ehchiu" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: psycholaine
 github_username:  ehchiu
